@@ -1,0 +1,17 @@
+C:\Users\arobi\source\repos\SSE657_Project1\Project2 Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\arobi\source\repos\SSE657_Project1\Project2 Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\arobi\source\repos\SSE657_Project1\Project2 Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\arobi\source\repos\SSE657_Project1\Project2 Unit Test\bin\Debug\Project2 Unit Test.dll
+C:\Users\arobi\source\repos\SSE657_Project1\Project2 Unit Test\bin\Debug\Project2 Unit Test.pdb
+C:\Users\arobi\source\repos\SSE657_Project1\Project2 Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\arobi\source\repos\SSE657_Project1\Project2 Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\arobi\source\repos\SSE657_Project1\Project2 Unit Test\bin\Debug\SSE657_Project1.exe
+C:\Users\arobi\source\repos\SSE657_Project1\Project2 Unit Test\bin\Debug\SSE657_Project1.pdb
+C:\Users\arobi\source\repos\SSE657_Project1\Project2 Unit Test\bin\Debug\SSE657_Project1.exe.config
+C:\Users\arobi\source\repos\SSE657_Project1\Project2 Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\arobi\source\repos\SSE657_Project1\Project2 Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\arobi\source\repos\SSE657_Project1\Project2 Unit Test\obj\Debug\Project2 Unit Test.csprojAssemblyReference.cache
+C:\Users\arobi\source\repos\SSE657_Project1\Project2 Unit Test\obj\Debug\Project2 Unit Test.csproj.CoreCompileInputs.cache
+C:\Users\arobi\source\repos\SSE657_Project1\Project2 Unit Test\obj\Debug\Project2 Unit Test.csproj.CopyComplete
+C:\Users\arobi\source\repos\SSE657_Project1\Project2 Unit Test\obj\Debug\Project2 Unit Test.dll
+C:\Users\arobi\source\repos\SSE657_Project1\Project2 Unit Test\obj\Debug\Project2 Unit Test.pdb
